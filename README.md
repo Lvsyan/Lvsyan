@@ -4,7 +4,7 @@
 
 ![](https://rmcrisispartners.org/wp-content/uploads/2018/11/im-bg-big-data-analytics-banner-high-1700x425-jpg.jpg)
 
-## Mis repositorios
+## My repositories
 
 [My profile](https://github.com/Lvsyan) Here is my github profile, where you will find all my repositories
 
