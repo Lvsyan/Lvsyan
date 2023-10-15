@@ -12,5 +12,5 @@
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Lvsyan&show_icons=true&theme=dark)](https://github.com/Lvsyan/github-readme-stats)
 
 ### Contact:
-[![Linkedin Badge](https://img.shields.io/badge/-sergimadrigal?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergimadrigal/)](https://www.linkedin.com/in/sergimadrigal/)
+[![Linkedin Badge](https://img.shields.io/badge/-SergiMadrigal?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergimadrigal/)](https://www.linkedin.com/in/sergimadrigal/)
 [![Gmail Badge](https://img.shields.io/badge/-Lvsyan96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:LVsyan96@gmail.com)](mailto:Lvsyan96@gmail.com)
