@@ -6,4 +6,7 @@
 
 ## Mis repositorios
 
-[My profile](https://github.com/Lvsyan)
+[My profile](https://github.com/Lvsyan) Here if my github profile whre you will find all my repositories
+
+# My statistics on GitHub
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Lvsyan&show_icons=true&theme=dark)](https://github.com/Lvsyan/github-readme-stats)
