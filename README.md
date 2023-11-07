@@ -4,7 +4,7 @@
 
 ![](https://rmcrisispartners.org/wp-content/uploads/2018/11/im-bg-big-data-analytics-banner-high-1700x425-jpg.jpg)
 
-I have a website where I post all my projects, if you already watch my projects by entering my github, I encourage you to also try to see how it it [my website](https://sergiprojects.carrd.co/)
+I have a website where I post all my projects, if you already watch my projects by entering my github, I encourage you to also try to see how it it **[my website](https://sergiprojects.carrd.co/)**
 
 ## My repositories
 
