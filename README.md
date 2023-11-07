@@ -8,7 +8,7 @@ I have a website where I post all my projects, if you already watch my projects 
 
 ## My repositories
 
-Here I have [my repositories]([https://github.com/Lvsyan](https://github.com/Lvsyan?tab=repositories) where you will find all my projects and my story. Also, I really want to have feedback to learn more about my mistakes.
+Here I have [my repositories](https://github.com/Lvsyan?tab=repositories) where you will find all my projects and my story. Also, I really want to have feedback to learn more about my mistakes.
 
 # My statistics on GitHub
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Lvsyan&show_icons=true&theme=dark)](https://github.com/Lvsyan/github-readme-stats)
